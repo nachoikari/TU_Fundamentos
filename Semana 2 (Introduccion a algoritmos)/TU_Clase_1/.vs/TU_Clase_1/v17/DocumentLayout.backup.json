@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 2 (Introduccion a algoritmos)\\TU_Clase_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0699F3-1E33-4CAF-BF1D-DAA625331421}|TU_Clase_1\\TU_Clase_1.vcxproj|C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 2 (Introduccion a algoritmos)\\TU_Clase_1\\TU_Clase_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D0699F3-1E33-4CAF-BF1D-DAA625331421}|TU_Clase_1\\TU_Clase_1.vcxproj|solutionrelative:TU_Clase_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 2 (Introduccion a algoritmos)\\TU_Clase_1\\TU_Clase_1\\main.cpp",
+              "RelativeDocumentMoniker": "TU_Clase_1\\main.cpp",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 2 (Introduccion a algoritmos)\\TU_Clase_1\\TU_Clase_1\\main.cpp",
+              "RelativeToolTip": "TU_Clase_1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T20:45:23.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
