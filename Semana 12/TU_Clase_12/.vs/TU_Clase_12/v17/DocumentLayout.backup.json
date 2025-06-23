@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B99F19C1-4446-488F-9BB4-0F33CB479344}|TU_Clase_12\\TU_Clase_12.vcxproj|C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Curso.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B99F19C1-4446-488F-9BB4-0F33CB479344}|TU_Clase_12\\TU_Clase_12.vcxproj|solutionrelative:TU_Clase_12\\Curso.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B99F19C1-4446-488F-9BB4-0F33CB479344}|TU_Clase_12\\TU_Clase_12.vcxproj|C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Curso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B99F19C1-4446-488F-9BB4-0F33CB479344}|TU_Clase_12\\TU_Clase_12.vcxproj|solutionrelative:TU_Clase_12\\Curso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99F19C1-4446-488F-9BB4-0F33CB479344}|TU_Clase_12\\TU_Clase_12.vcxproj|C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Curso.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B99F19C1-4446-488F-9BB4-0F33CB479344}|TU_Clase_12\\TU_Clase_12.vcxproj|solutionrelative:TU_Clase_12\\Curso.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B99F19C1-4446-488F-9BB4-0F33CB479344}|TU_Clase_12\\TU_Clase_12.vcxproj|C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,29 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Curso.cpp",
               "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Curso.cpp",
               "RelativeDocumentMoniker": "TU_Clase_12\\Curso.cpp",
               "ToolTip": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Curso.cpp",
               "RelativeToolTip": "TU_Clase_12\\Curso.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-14T20:05:19.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Curso.h",
               "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Curso.h",
               "RelativeDocumentMoniker": "TU_Clase_12\\Curso.h",
               "ToolTip": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Curso.h",
               "RelativeToolTip": "TU_Clase_12\\Curso.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-14T19:55:19.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T19:55:19.514Z"
             },
             {
               "$type": "Document",
@@ -70,7 +69,7 @@
               "RelativeDocumentMoniker": "TU_Clase_12\\Estudiante.cpp",
               "ToolTip": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Estudiante.cpp",
               "RelativeToolTip": "TU_Clase_12\\Estudiante.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAywBYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA0wAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-14T19:54:47.199Z"
             },
@@ -82,7 +81,7 @@
               "RelativeDocumentMoniker": "TU_Clase_12\\Estudiante.h",
               "ToolTip": "C:\\Users\\isaac\\Desktop\\Tutor\u00EDa\\Semana 12\\TU_Clase_12\\TU_Clase_12\\Estudiante.h",
               "RelativeToolTip": "TU_Clase_12\\Estudiante.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-14T19:53:45.152Z"
             },
